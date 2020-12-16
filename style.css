@@ -20,9 +20,8 @@
 .menu ul li:hover {
   	background-color: #111111;
 }
-.center {
+.img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
