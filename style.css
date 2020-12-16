@@ -8,3 +8,13 @@
 	height: 100%;
 	background: #0080d8;
 }
+.menu ul{
+	dislay: inline-flex;
+	margin: 50px;
+}
+.menu ul li{
+	list-style: none;
+	margin: 0 20px;
+	color: #ffffff;
+	cursor: pointer;
+}
