@@ -20,3 +20,6 @@
 .menu ul li:hover {
   	background-color: #0080d8;
 }
+.menu ul li:visited {
+  	color: white;
+}
