@@ -8,7 +8,7 @@
   	margin: 0;
   	padding: 0;
   	overflow: hidden;
-  	background-color: #003a5f
+  	background-color: #0080d8
 }
 .menu ul li{
 	display: inline;
@@ -16,10 +16,4 @@
   	text-align: center;
   	padding: 50px;
   	text-decoration: none;
-}
-.li:hover {
-  	background-color: #0080d8;
-}
-.li:visited {
-  	color: white;
 }
