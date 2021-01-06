@@ -11,8 +11,7 @@
 }
 .menu ul li{
 	display: inline;
-  	color: white;
   	text-align: center;
-  	padding: 50px;
+  	padding: 10 px;
   	text-decoration: none;
 }
